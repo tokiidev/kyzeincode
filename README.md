@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/c5YvIa6.png" />
+<img align="right" height="270px" alt="GIF" src="blob:https://imgur.com/59f3ae1d-fb50-45e8-b93c-b79c5e99cfe3" />
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
