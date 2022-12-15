@@ -17,7 +17,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/KdZeoNg.png" />
+<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/c5YvIa6.png" />
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
