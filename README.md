@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="[https://i.imgur.com/ZS48LJL.png](https://cdn.discordapp.com/avatars/1038855837801795694/bed27189dc67ba3710c4e506843ee286.png?size=1024)" />
+<img align="right" height="270px" alt="GIF" src="[https://cdn.discordapp.com/avatars/1038855837801795694/bed27189dc67ba3710c4e506843ee286.png?size=1024]" />
 
 ### Sobre mi
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
