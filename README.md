@@ -1,4 +1,4 @@
- *!*-- [![KYZE WALLPAPER](https://i.imgur.com/mbQRnvZ.png)](https://www.youtube.com/channel/UCgXE39DV4buInNxkIgDxaqg) 
+
 
 <p>
   <h1 align="center"><b>Hola!, Soy Tokito👋</b></h1>
